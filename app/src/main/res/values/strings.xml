@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GEMIS_Toma_Decisiones</string>
+    <string name="Lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quam dolor, efficitur id varius sit amet, aliquet in felis. Sed facilisis tempor velit, in cursus tortor lobortis et. Aenean luctus iaculis pharetra. Nullam placerat tempor justo a faucibus. Praesent efficitur malesuada ante, ac accumsan mauris condimentum vitae. Vivamus eget ex auctor, consequat ipsum sed, rhoncus ipsum. Ut vel tortor mattis, porta dui laoreet, faucibus mauris. Aliquam ut orci eu ex cursus dignissim. Integer eget velit aliquet, accumsan lorem ac, ultrices tellus.</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_legajo">Nro. Legajo</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar sesión</string>
+    <string name="action_sign_in_short">Iniciar sesión</string>
+    <string name="error_invalid_email">Esta dirección de Mail no es válida</string>
+    <string name="error_invalid_password">Contraseña demasiado corta.</string>
+    <string name="error_incorrect_password">Contraseña incorrecta</string>
+    <string name="error_field_required">Campo requerido</string>
+    <!--<string name="permission_rationale">"Contacts permissions are needed for providing email-->
+        <!--completions."-->
+    <!--</string>-->
+    <string name="permission_rationale">"Permisos de contacto necesarios para proveer el email."
+    </string>
+</resources>
